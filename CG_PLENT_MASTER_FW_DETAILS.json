@@ -1,5 +1,5 @@
 {
-    "type": "esp32-fota-http",
+    "type": "esp32-fota-https",
     "Date": "--/--/----",
     "Time": "--:--",
     "Uploaded_By": "Akshay Atkar",
